@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 150" width="100%" height="100%" fill="none">
+  <defs>
+    <style>
+      .brand-text {
+        font-family: 'Code Next-Trial', 'Code Next', 'Poppins', 'Montserrat', 'Segoe UI', sans-serif;
+        font-weight: 600;
+        font-size: 58px;
+        letter-spacing: -0.018em;
+        fill: #000000;
+      }
+    </style>
+  </defs>
+  <g transform="translate(15, 15)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M56 4C27.28 4 4 27.28 4 56C4 84.72 27.28 108 56 108C84.72 108 108 84.72 108 56C108 27.28 84.72 4 56 4ZM56 29C41.09 29 29 41.09 29 56C29 70.91 41.09 83 56 83C70.91 83 83 70.91 83 56C83 41.09 70.91 29 56 29Z" fill="#0180F3"/>
+    <rect x="96" y="96" width="20" height="20" rx="1.5" fill="#0180F3"/>
+  </g>
+  <text x="170" y="98" class="brand-text">Quantrix Global</text>
+</svg>
