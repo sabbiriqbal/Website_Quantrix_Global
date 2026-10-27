@@ -273,6 +273,7 @@ section{padding:84px 0;position:relative}
   background:rgba(255,255,255,.03);border:1px solid var(--card-brd);transition:.3s;
 }
 .team-card:hover{border-color:rgba(47,155,255,.4);transform:translateY(-6px)}
+.team-card:only-child{max-width:320px;margin:0 auto}
 .avatar{
   width:84px;height:84px;border-radius:22px;margin:0 auto 14px;object-fit:cover;
   border:2px solid rgba(255,255,255,.2);transition:.3s;
@@ -287,6 +288,7 @@ section{padding:84px 0;position:relative}
   background:rgba(255,255,255,.05);border:1px solid var(--card-brd);transition:.22s;
 }
 .team-social a:hover{background:var(--acc);color:#fff}
+.team-social svg{display:block}
 
 /* why us */
 .why-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
